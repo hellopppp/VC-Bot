@@ -1,0 +1,14 @@
+{
+    "name": "VC-bot",
+    "version": "1.0.0",
+    "description": "Voice controlled Discord bot",
+    "main": "bot.js",
+    "author": "hellopppp",
+    "dependencies": {
+        "discord.js": "^11.3.0",
+        "ffmpeg": "0.0.4",
+        "ffmpeg-binaries": "^3.2.2-3",
+        "node-wit": "^5.0.0",
+        "winston": "^2.4.0"
+    }
+}
