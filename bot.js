@@ -9,7 +9,7 @@ var auth = require('./auth.json');
 var settings = require('./settings.json');
 
 var speechToText = new SpeechToTextV1({
-  iam_apikey:'tN-BqChjPjIgrtGQFTjYWGHyBUUQGNfXrlyPNyqR8h_e',
+  iam_apikey:'WATSONAPIKEYHERE',
   url: 'https://gateway-wdc.watsonplatform.net/speech-to-text/api'
 });
 
